@@ -1,0 +1,4 @@
+## remotes
+## stashing
+## merging
+## pushing
